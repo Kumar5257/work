@@ -1,0 +1,281 @@
+body{
+    width:60%;
+    margin:10%;
+    font-size: large;
+    display:centre;
+}
+
+
+div p {
+    font-family: sans-serif;
+}
+
+.profile-card {
+    display: flex;
+    align-items: center;
+    background-color: #f8f8f8;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width:600px;
+    margin: auto;
+    position:fixed;
+    left: 45%;
+    padding: 8px;
+    position: fixed;
+    top: 32px;
+    transform: translate(-50%);
+    width: 676px;
+    z-index: 2;
+    
+    
+  }
+  
+  .profile-image img {
+    width: 50px;
+    height: 50px;
+    border-radius: 20%;
+    object-fit: cover;
+  }
+  
+  .profile-info {
+    flex: 1;
+    margin-left: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .profile-info h3 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 500;
+  }
+  
+  .social-links {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .social-btn {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 5px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+  }
+  
+  .social-btn i {
+    font-size: 18px;
+    color: #555;
+  }
+  
+  /* Responsive for mobile view */
+  /* @media (max-width: 600px) {
+    .profile-card {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    .profile-info {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    .social-links {
+      margin-top: 10px;
+    }
+  } */
+  
+.anger
+{
+    background-color:rgb(43,57,43);
+    padding:10px 20px;
+    text-decoration:none;
+    color:rgb(165,213,147);
+    border-radius:10%;
+    box-shadow:1px 5px 2px 1px black;
+    
+
+}
+
+.kumar1{
+    border:2px solid rgb(226,235,226);
+    width:100%;
+    height: 150px;
+    padding:20px;
+    
+}
+
+.rison{
+    border:2px solid rgb(226,235,226);
+    width:100%;
+    height: 150px;
+    padding:20px;
+    
+}
+
+.vasanth{
+    border:2px solid rgb(226,235,226);
+    width:100%;
+    height: 150px;
+    padding:20px;
+    
+}
+.topdiv
+{
+    padding-top:100px;
+    
+}
+ 
+.profile-card > a
+{
+    padding:10px;
+    margin:10px;
+}
+element.style {
+    display: block;
+    width: 100%;
+    height: 100%;
+    border-radius: inherit;
+    object-position: center center;
+    object-fit: cover;
+    image-rendering: auto;
+}
+
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+.ram{
+    border:2px solid rgb(226,235,226);
+    width:100%;
+    height: auto;
+    padding:20px;
+}
+.pradeep{
+    
+    border:2px solid rgb(226,235,226);
+    width:100%;
+    height: auto;
+    padding:20px;
+}
+.kisore{
+    
+    border:2px solid rgb(226,235,226);
+    width:100%;
+    height: auto;
+    padding:20px;
+}
+.maharaja{
+  border:2px solid rgb(226,235,226);
+  height:auto;
+  padding:20px;
+  width:100%;
+
+}
+.maharaja img{
+  width: 70px;
+  height: 70px;
+  border-radius: 20%;
+  object-fit: cover;
+  
+  margin-top:50px;
+}
+.text
+{
+ 
+  position:absolute;
+  margin-left: 100px;
+  margin-top: -60px;
+}
+#end
+{
+  position:absolute;
+  margin-left: 30px;
+  margin-top:90px;
+}
+.sabari{
+  border:2px solid rgb(226,235,226);
+  height:auto;
+  padding:20px;
+  width:100%;
+
+}
+.sabari img{
+  width: 70px;
+  height: 70px;
+  border-radius: 20%;
+  object-fit: cover;
+  
+  margin-top:50px;
+}
+
+#start
+{
+  position:absolute;
+  margin-left: 30px;
+  margin-top:90px;
+}
+.mathan{
+  border:2px solid rgb(226,235,226);
+  height:auto;
+  padding:20px;
+  width:100%;
+
+}
+.mathan img{
+  width: 70px;
+  height: 70px;
+  border-radius: 20%;
+  object-fit: cover;
+  
+  margin-top:50px;
+}
+
+#interval
+{
+  position:absolute;
+  margin-left: 30px;
+  margin-top:90px;
+}
+
+.venkat
+{
+  border:2px solid rgb(226,235,226);
+  height:350px;
+  padding:30px;
+  width:100%;
+  box-shadow:5px 60px 10px 20px whitesmoke;
+
+}
+.difrin{
+  position: absolute;
+  margin-top:40px;
+  float:left;
+}
+.aswin {
+  clear: both;
+  margin-top: 32px;
+  margin-left: 200px;
+  padding: 10px 20px;
+  border: 2px solid rgb(226,235,226);  /* Fixed the typo 'soild' to 'solid' */
+  border-radius:15%;
+  background-color: white;
+  width: 120px;
+  opacity:0.6;
+  border-
+}
+
+.aswin a {
+  text-decoration: none;  /* Apply text-decoration to the anchor */
+  color: black;  /* Optional: Set text color to black or another color */
+}
+
+#ending
+{
+  position:absolute;
+  margin-left: 300px;
+  margin-top:40px;
+  
+}
